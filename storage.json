@@ -3,36 +3,36 @@
     "imageUrl": "https://raw.githubusercontent.com/William-Jake/jackvetcher/main/run.jpg",
     "title": "NZSS XC",
     "content": "Testing still",
-    "id": "1"
+    "id": 1
   },
   {
     "imageUrl": "URL2",
     "title": "Title 2",
     "content": "Content 2",
-    "id": "2"
+    "id": 2
   },
   {
     "imageUrl": "URL3",
     "title": "Title 3",
     "content": "Content 3",
-    "id": "3"
+    "id": 3
   },
   {
     "imageUrl": "URL4",
     "title": "Title 4",
     "content": "Content 4",
-    "id": "4"
+    "id": 4
   },
   {
     "imageUrl": "URL5",
     "title": "Title 5",
     "content": "Content 5",
-    "id": "5"
+    "id": 5
   },
   {
     "imageUrl": "URL6",
     "title": "Title 6",
     "content": "Content 6",
-    "id": "6"
+    "id": 6
   }
 ]
