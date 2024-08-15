@@ -12,26 +12,26 @@
     "id": 2
   },
   {
-    "imageUrl": "URL3",
-    "title": "Title 3",
+    "imageUrl": "https://raw.githubusercontent.com/William-Jake/jackvetcher/main/trophy.jpg",
+    "title": "Ipsum Prize",
     "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam quis turpis eget nunc tincidunt pulvinar. Suspendisse pellentesque, risus sit amet convallis blandit, felis sem vehicula ligula, consectetur semper nunc enim eu massa. ",
     "id": 3
   },
   {
-    "imageUrl": "URL4",
-    "title": "Title 4",
+    "imageUrl": "https://raw.githubusercontent.com/William-Jake/jackvetcher/main/trophy.jpg",
+    "title": "Dolar Prize",
     "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam quis turpis eget nunc tincidunt pulvinar. Suspendisse pellentesque, risus sit amet convallis blandit, felis sem vehicula ligula, consectetur semper nunc enim eu massa. ",
     "id": 4
   },
   {
-    "imageUrl": "URL5",
-    "title": "Title 5",
+    "imageUrl": "https://raw.githubusercontent.com/William-Jake/jackvetcher/main/trophy.jpg",
+    "title": "Sit Prize",
     "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam quis turpis eget nunc tincidunt pulvinar. Suspendisse pellentesque, risus sit amet convallis blandit, felis sem vehicula ligula, consectetur semper nunc enim eu massa. ",
     "id": 5
   },
   {
-    "imageUrl": "URL6",
-    "title": "Title 6",
+    "imageUrl": "https://raw.githubusercontent.com/William-Jake/jackvetcher/main/trophy.jpg",
+    "title": "Amet Prize",
     "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam quis turpis eget nunc tincidunt pulvinar. Suspendisse pellentesque, risus sit amet convallis blandit, felis sem vehicula ligula, consectetur semper nunc enim eu massa. ",
     "id": 6
   }
